@@ -1,0 +1,45 @@
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+.btn{
+    width: 300px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #666CFF;
+    border:0;
+    transition: 1s;
+    cursor:pointer;
+    font-family: Tahoma;
+    font-size: 20px;
+}
+.btn:hover{
+    border: 3px solid #666CFF;
+    background-color: white;
+}
+
+.item-img{
+    border-radius: 30px;
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+    margin-bottom: 10px;
+}
+.item-title{
+    font-size: 35px;
+    margin-bottom: 30px;
+    font-family: Tahoma;
+    display: flex;
+    justify-content: center;
+}
+.item-btn {
+    margin-bottom: 30px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.item:hover{
+    background: center url(https://vjoy.cc/wp-content/uploads/2020/07/bezymyannyjav-5.jpg);
+}
